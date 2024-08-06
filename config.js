@@ -33,7 +33,7 @@ global.mess = {
     bangc: '`This Group is *Banned* from using Commands!`',
     success: '`✓ Success`',
     admin: '`This feature is only for group admins`',
-    botAdmin: '`I am not an admin superior `'
+    botAdmin: '`I am not an admin superior `',
     owner: '`You are not my owner`',
     group: '`You can use this command only in groups ❌`',
     private: '`Feature is used only for private chats!`',
